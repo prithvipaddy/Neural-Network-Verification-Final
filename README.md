@@ -1,3 +1,3 @@
-The goal of this project was to implement the work done in this paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418593
+The goal of this project was to implement the work done in [this]([url](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418593)) paper using a purely functional approach. A functional approach was chosen because it was an interesting challenge to create a complex system of zonotope arithmetic using simple parts. More details and reasoning can be found on the file "Report.pdf" on this repo.
 
-The code had to go through multiple iterations as the initial approaches were very computationally intensive. The thoughts behind the code and the explanation can be read on the file "Report.pdf" on this repo.
+The code had to go through multiple iterations as the initial approaches were very computationally intensive. The thoughts behind the code and the explanation can be read on the report mentioned above.
