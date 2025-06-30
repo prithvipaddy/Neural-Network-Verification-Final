@@ -1,0 +1,42 @@
+parsed layer: conv2d
+img dimensions: (43,43)
+zonotope dimensions: (3,1849,1)
+parsed layer: average_pooling2d
+img dimensions: (41,41)
+zonotope dimensions: (32,1681,2)
+parsed layer: conv2d_1
+img dimensions: (20,20)
+zonotope dimensions: (32,400,2)
+parsed layer: average_pooling2d_1
+img dimensions: (18,18)
+zonotope dimensions: (64,324,3)
+parsed layer: conv2d_2
+img dimensions: (9,9)
+zonotope dimensions: (64,81,3)
+parsed layer: average_pooling2d_2
+img dimensions: (7,7)
+zonotope dimensions: (128,49,4)
+parsed layer: conv2d_3
+img dimensions: (3,3)
+zonotope dimensions: (128,9,4)
+parsed layer: flatten
+img dimensions: (1,1)
+zonotope dimensions: (256,1,5)
+parsed layer: dense
+img dimensions: (1,1)
+zonotope dimensions: (1,256,5)
+parsed layer: dropout
+img dimensions: (1,1)
+zonotope dimensions: (1,256,6)
+parsed layer: dense_1
+img dimensions: (1,1)
+zonotope dimensions: (1,256,6)
+parsed layer: dropout_1
+img dimensions: (1,1)
+zonotope dimensions: (1,128,7)
+parsed layer: dense_2
+img dimensions: (1,1)
+zonotope dimensions: (1,128,7)
+Final zonotope dimensions: (1,43,7)
+Final zonotpe[False]
+Data written to correctlyClassified.json
